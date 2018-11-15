@@ -6,7 +6,3 @@ export { PrincipalPage } from './principal/principal';
 export { AjustesPage } from './ajustes/ajustes';
 export { Ajustes2Page } from './ajustes2/ajustes2';
 
-
-
-
-
