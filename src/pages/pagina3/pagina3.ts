@@ -10,7 +10,6 @@ export class Pagina3Page {
 
   mutante: any = {};
   constructor(public navCtrl: NavController, public navParams: NavParams) {
-    console.log(navCtrl);
 
     this.mutante = this.navParams.get("mutante");
   }
